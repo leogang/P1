@@ -1,0 +1,40 @@
+body {
+	width: 1024px;
+	font-family: Verdana, sans-serif;
+	color: #666;
+}
+h1 {
+	font-size: 343%;
+	font-weight: 400;
+	padding: 25px;
+	margin-top: 22px;
+}
+h2 {
+	font-size: 170%;
+	font-weight: 600;
+	color: #F07C17;
+	margin-top: 5px;
+	margin-bottom: 30px;
+	margin-left: 6px;	
+}
+p {
+	font-size: 15px;
+	line-height: 2.15em;
+	margin-left: 6px
+}
+ul {
+	font-size: 16px;
+    line-height: 2.1em;
+    padding: 0px 0 0 45px;
+}
+.start-day {
+	margin-top: -12px;
+	padding: 0px 0px 0px 37px;
+}
+.main-features-box {
+    border: solid 1px #CCC;
+    width: 374px;
+    height: 224px;
+    margin-top: 36px;
+    padding: 25px;
+}
