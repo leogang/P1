@@ -15,9 +15,7 @@ h2 {
   font-size: 170%;
   font-weight: 600;
   color: #f07c17;
-  margin-top: 5px;
-  margin-bottom: 30px;
-  margin-left: 6px;
+  margin: 5px 0 30px 6px;
 }
 
 p {
